@@ -1,0 +1,8 @@
++```javascript
+ +module.exports.nouns = [
+ +    'Donald Trump',
+ +    'Kyle Jensen',
+ +    'Mike Tyson'
+ +];
+ +```
+ 
